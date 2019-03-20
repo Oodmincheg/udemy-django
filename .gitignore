@@ -1,0 +1,12 @@
+venv
+.__MACOSX
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+btre_resources
+__MACOSX
+.vscode
